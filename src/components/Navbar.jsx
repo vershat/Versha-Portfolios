@@ -8,7 +8,7 @@ function Navbar() {
     <nav className="flex justify-between items-center h-24 bg-purple-800 px-6 fixed w-full z-50">
       <div className="text-white text-3xl font-bold ml-6">Versha's Portfolio</div>
       
-      {/* Hamburger Icon */}
+      {}
       <div 
         className="text-white text-3xl cursor-pointer md:hidden"
         onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -16,7 +16,7 @@ function Navbar() {
         ☰
       </div>
       
-      {/* Navigation Links */}
+      {}
       <ul
         className={`flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6 
           absolute md:relative top-24 md:top-0 bg-purple-800 md:bg-transparent w-full md:w-auto

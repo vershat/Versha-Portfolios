@@ -8,7 +8,7 @@ function Projects() {
         <h1 className="text-4xl font-bold">My Projects</h1>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10">
-        {/* Project 1 */}
+        {}
         <div className="flex flex-col  bg-white p-4 rounded-lg shadow-2xl text-center hover:shadow-xl transition-shadow h-full">
           <img
             src="/Project3.jpg"
@@ -26,7 +26,7 @@ function Projects() {
           </a>
         </div>
 
-        {/* Project 2 */}
+        {}
         <div className="flex flex-col bg-white p-4 rounded-lg shadow-2xl text-center hover:shadow-xl transition-shadow h-full">
           <img
             src="/project1.jpg"
@@ -44,7 +44,7 @@ function Projects() {
           </a>
         </div>
 
-        {/* Project 3 */}
+        {}
         <div className="flex flex-col bg-white p-4 rounded-lg shadow-2xl text-center hover:shadow-xl transition-shadow h-full">
           <img
             src={myntra}
