@@ -1,5 +1,5 @@
 
-- # Versha's Portfoilio with chatbot integration
+- # Versha's Portfolio with chatbot integration
 
 This project is a personal portfolio with chatbot created using JavaScript, React, and Tailwind CSS. It features an interactive chatbot that answers questions about my resume, providing insights into my skills, projects, education, and experiences. The chatbot leverages natural language processing to understand and respond to user queries regarding my professional background.
 
