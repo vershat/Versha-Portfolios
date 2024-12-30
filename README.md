@@ -27,5 +27,5 @@ To run this project locally, follow these steps:
    npm i
 3. **Start the development server**:
    ```bash
-   npm run dev
+   npm run dev
 
