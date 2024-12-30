@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 2. **Install Node modules**:
    ```bash
    npm i
-3. **Start the development server**
+3. **Start the development server**:
    ```bash
    npm run dev
 
