@@ -22,4 +22,10 @@ To run this project locally, follow these steps:
    Open a terminal and run the following command to clone the repository:  
    ```bash
    git clone https://github.com/your-username/Versha-Portfolios.git
+2. **Install Node modules**:
+   bash
+   npm i
+3. **Start the development server**
+   ```bash
+   npm run dev
 
