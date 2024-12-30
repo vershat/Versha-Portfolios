@@ -40,7 +40,7 @@ function Projects() {
             rel="noopener noreferrer"
             className="mt-4 inline-block bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition"
           >
-            View on GitHub
+            View on Insta
           </a>
         </div>
 
